@@ -1,5 +1,5 @@
 %% main
-% Refactoring parameter estiamtion code
+% Analysis code for Lew, Pashler & Vul, 2015
 % 4.8.2015-Created
 
 %% Settings
